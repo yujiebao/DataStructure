@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b3fa5ef9-1509-4a6b-a531-87f45751f880" name="默认更改列表" comment="" />
+    <list default="true" id="b3fa5ef9-1509-4a6b-a531-87f45751f880" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Pro347.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Pro349.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Pro350.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/堆/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/堆/MaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/队列/PriorityQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/二叉树/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/二叉树/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/数组/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/数组/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/数组/GenericArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/数组/GenericArray.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +43,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2n6uNS5DibV74FiLKFSV0oo8LI5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,9 +55,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/集合和映射" />
+    <property name="last_opened_file_path" value="F:/桌面/实践和实验/算法/JAVA实现" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,7 +78,7 @@
       <recent name="F:\unity\面试\面试算法\数据结构\src\集合和映射" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Leetcode.Main" />
       <module name="数据结构" />
@@ -100,19 +118,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="链表.Main" />
-      <module name="数据结构" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="链表.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="集合和映射.Main" />
       <module name="数据结构" />
@@ -126,13 +131,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="堆.Main" />
+      <module name="数据结构" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="堆.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +210,11 @@
       <workItem from="1731991787572" duration="2176000" />
       <workItem from="1732005321868" duration="528000" />
       <workItem from="1732018988915" duration="9160000" />
+      <workItem from="1732030962656" duration="24000" />
+      <workItem from="1732031144804" duration="1000" />
+      <workItem from="1732098571372" duration="133000" />
+      <workItem from="1732098876211" duration="9112000" />
+      <workItem from="1732114065123" duration="6116000" />
     </task>
     <servers />
   </component>
@@ -199,49 +222,57 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="659" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1732029395104">
+    <state x="659" y="167" key="#com.intellij.ide.util.MemberChooser" timestamp="1732117518044">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state x="659" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1707.912/-2560.0.1280.672@0.0.1707.912" timestamp="1728614456806" />
-    <state x="659" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732029395104" />
+    <state x="659" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732117518044" />
     <state x="659" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1707.912/2560.-164.1280.752@0.0.1707.912" timestamp="1729490757357" />
     <state x="659" y="167" key="#com.intellij.ide.util.MemberChooser/0.0.1707.912@0.0.1707.912" timestamp="1732005755910" />
     <state x="584" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1731985029499">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state x="584" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1731985029499" />
+    <state x="446" y="116" key="#自动导入" timestamp="1732118293707">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="446" y="116" key="#自动导入/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732118293707" />
     <state x="446" y="116" key="#项目结构" timestamp="1728305812943">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state x="446" y="116" key="#项目结构/0.0.1707.912@0.0.1707.912" timestamp="1728305812943" />
-    <state x="634" y="198" key="FileChooserDialogImpl" timestamp="1730647517686">
+    <state x="451" y="48" key="CommitChangelistDialog2" timestamp="1732120842013">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state x="634" y="198" key="FileChooserDialogImpl/0.0.1707.912@0.0.1707.912" timestamp="1730647517686" />
-    <state width="1664" height="296" key="GridCell.Tab.0.bottom" timestamp="1732030605534">
+    <state x="451" y="48" key="CommitChangelistDialog2/0.0.1707.912@0.0.1707.912" timestamp="1732120842013" />
+    <state x="634" y="198" key="FileChooserDialogImpl" timestamp="1732114099755">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="634" y="198" key="FileChooserDialogImpl/0.0.1707.912@0.0.1707.912" timestamp="1732114099755" />
+    <state width="1663" height="214" key="GridCell.Tab.0.bottom" timestamp="1732120869718">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state width="1663" height="240" key="GridCell.Tab.0.bottom/0.0.1707.912/-2560.0.1280.672@0.0.1707.912" timestamp="1728739719755" />
-    <state width="1664" height="296" key="GridCell.Tab.0.bottom/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732030605534" />
-    <state width="1663" height="240" key="GridCell.Tab.0.bottom/0.0.1707.912@0.0.1707.912" timestamp="1731934091694" />
-    <state width="1664" height="296" key="GridCell.Tab.0.center" timestamp="1732030605533">
+    <state width="1664" height="214" key="GridCell.Tab.0.bottom/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732120270810" />
+    <state width="1663" height="214" key="GridCell.Tab.0.bottom/0.0.1707.912@0.0.1707.912" timestamp="1732120869718" />
+    <state width="1663" height="214" key="GridCell.Tab.0.center" timestamp="1732120869718">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state width="1663" height="240" key="GridCell.Tab.0.center/0.0.1707.912/-2560.0.1280.672@0.0.1707.912" timestamp="1728739719754" />
-    <state width="1664" height="296" key="GridCell.Tab.0.center/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732030605533" />
-    <state width="1663" height="240" key="GridCell.Tab.0.center/0.0.1707.912@0.0.1707.912" timestamp="1731934091694" />
-    <state width="1664" height="296" key="GridCell.Tab.0.left" timestamp="1732030605533">
+    <state width="1664" height="214" key="GridCell.Tab.0.center/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732120270810" />
+    <state width="1663" height="214" key="GridCell.Tab.0.center/0.0.1707.912@0.0.1707.912" timestamp="1732120869718" />
+    <state width="1663" height="214" key="GridCell.Tab.0.left" timestamp="1732120869718">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state width="1663" height="240" key="GridCell.Tab.0.left/0.0.1707.912/-2560.0.1280.672@0.0.1707.912" timestamp="1728739719754" />
-    <state width="1664" height="296" key="GridCell.Tab.0.left/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732030605533" />
-    <state width="1663" height="240" key="GridCell.Tab.0.left/0.0.1707.912@0.0.1707.912" timestamp="1731934091693" />
-    <state width="1664" height="296" key="GridCell.Tab.0.right" timestamp="1732030605534">
+    <state width="1664" height="214" key="GridCell.Tab.0.left/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732120270810" />
+    <state width="1663" height="214" key="GridCell.Tab.0.left/0.0.1707.912@0.0.1707.912" timestamp="1732120869718" />
+    <state width="1663" height="214" key="GridCell.Tab.0.right" timestamp="1732120869718">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state width="1663" height="240" key="GridCell.Tab.0.right/0.0.1707.912/-2560.0.1280.672@0.0.1707.912" timestamp="1728739719755" />
-    <state width="1664" height="296" key="GridCell.Tab.0.right/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732030605534" />
-    <state width="1663" height="240" key="GridCell.Tab.0.right/0.0.1707.912@0.0.1707.912" timestamp="1731934091694" />
+    <state width="1664" height="214" key="GridCell.Tab.0.right/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732120270810" />
+    <state width="1663" height="214" key="GridCell.Tab.0.right/0.0.1707.912@0.0.1707.912" timestamp="1732120869718" />
     <state width="1664" height="296" key="GridCell.Tab.1.bottom" timestamp="1732030605534">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
@@ -274,6 +305,10 @@
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state x="411" y="57" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732028026634" />
+    <state x="650" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1732120866721">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="650" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1707.912@0.0.1707.912" timestamp="1732120866721" />
     <state x="408" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1731933930772">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
@@ -287,21 +322,16 @@
     </state>
     <state x="510" y="209" key="run.anything.popup/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732029294734" />
     <state x="510" y="209" key="run.anything.popup/0.0.1707.912@0.0.1707.912" timestamp="1728400160218" />
-    <state x="516" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1732028289865">
+    <state x="516" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1732106654748">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state x="516" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1707.912/-2560.0.1280.672@0.0.1707.912" timestamp="1728656353689" />
-    <state x="516" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732028289865" />
+    <state x="516" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732106654748" />
     <state x="516" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1707.912/2560.-164.1280.752@0.0.1707.912" timestamp="1729490540859" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/数组/Array.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/二分搜索树/BST.java</url>
           <line>54</line>

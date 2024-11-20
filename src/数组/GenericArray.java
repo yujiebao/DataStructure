@@ -1,5 +1,6 @@
 package 数组;
 
+import javax.xml.crypto.Data;
 import java.util.Objects;
 
 public class GenericArray<T> {
@@ -16,6 +17,17 @@ public class GenericArray<T> {
     public GenericArray()
     {
         this(10);
+    }
+
+    public GenericArray(T[] arr)
+    {
+        data = (T[]) new Object[arr.length];
+        for (int i = 0 ; i< arr.length; i++)
+        {
+            data[i] = arr[i];
+        }
+        size = arr.length;
+
     }
 
     //获取数组的元素个数
@@ -203,5 +215,15 @@ public class GenericArray<T> {
             newData[i] = data[i];
         }
         data = newData;
+    }
+
+    public void swap(int i ,int j)
+    {
+        if (i < 0 || i >= size || j >= size)
+            throw new IllegalArgumentException("Index illegal");
+
+        T t = data[i];
+        data[i] = data[j];
+        data[j] = t ;
     }
 }

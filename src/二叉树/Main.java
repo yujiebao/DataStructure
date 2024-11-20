@@ -38,6 +38,8 @@ public class Main {
             else
                 map.add(i,1);
         }
+
+
         for (int i = 5 ; i < 10; i++)
         {
             if (map.contains(i))
