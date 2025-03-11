@@ -366,7 +366,7 @@ class Solution {
         return res;
     }
 
-    private static void printList(List<Integer> nums){
+     private static void printList(List<Integer> nums){
         for(Integer num: nums)
             System.out.print(num + " ");
         System.out.println();

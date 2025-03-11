@@ -7,10 +7,7 @@ public class MapSum {
         public int value;
         public TreeMap<Character, Node> next;
 
-        public Node(int value){
-            this.value = value;
-            next = new TreeMap<>();
-        }
+        public Node(int value)
 
         public Node(){
             this(0);

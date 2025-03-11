@@ -5,6 +5,8 @@ import 数组.GenericArray;
 
 import java.util.regex.Pattern;
 
+
+//堆为一棵完全二叉树--->只有最后一层的左边有
 public class MaxHeap<E extends Comparable<E>> {
       private GenericArray<E> data;
 
