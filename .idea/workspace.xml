@@ -2,38 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3fa5ef9-1509-4a6b-a531-87f45751f880" name="默认更改列表" comment="2025.1.20">
-      <change afterPath="$PROJECT_DIR$/src/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/Pro303.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/哈希表/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/哈希表/JavaOw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/平衡树和AVL/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/平衡树和AVL/AVLTreeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/平衡树和AVL/说明" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/并查集/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/并查集/UF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/并查集/UnionFind1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/并查集/UnionFind2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/并查集/UnionFind3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/并查集/UnionFind4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/并查集/UnionFind5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/并查集/UnionFind6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/并查集/说明" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/红黑树/RBTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/红黑树/说明" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/线段树/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/线段树/Merger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/线段树/SegmentTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/集合和映射/AVLMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/集合和映射/AVLSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Pro347.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Pro347.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leetcode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Leetcode/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tree/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tree/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/二叉树/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/二叉树/BST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/堆/MaxHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/堆/MaxHeap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/源码/Play-with-Data-Structures-master/Play-with-Data-Structures-master/08-Heap-and-Priority-Queue/07-Priority-Queue-Problems-in-Leetcode/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/源码/Play-with-Data-Structures-master/Play-with-Data-Structures-master/08-Heap-and-Priority-Queue/07-Priority-Queue-Problems-in-Leetcode/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/源码/Play-with-Data-Structures-master/Play-with-Data-Structures-master/10-Trie/06-Trie-and-Map/src/MapSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/源码/Play-with-Data-Structures-master/Play-with-Data-Structures-master/10-Trie/06-Trie-and-Map/src/MapSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/笔记.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,12 +61,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\unity\面试\面试算法\数据结构\src\集合和映射" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\unity\面试\面试算法\数据结构\DataStructure\src\红黑树" />
       <recent name="F:\unity\面试\面试算法\数据结构\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\unity\面试\面试算法\数据结构\src\集合和映射" />
     </key>
   </component>
   <component name="RunManager" selected="Application.JavaOw">
@@ -271,6 +241,12 @@
       <workItem from="1741068104890" duration="256000" />
       <workItem from="1741181674565" duration="24000" />
       <workItem from="1741186604789" duration="12000" />
+      <workItem from="1742390275176" duration="86000" />
+      <workItem from="1742390408472" duration="74000" />
+      <workItem from="1742390524868" duration="662000" />
+      <workItem from="1742450174649" duration="77000" />
+      <workItem from="1742516326866" duration="2233000" />
+      <workItem from="1742869542758" duration="48000" />
     </task>
     <servers />
   </component>
@@ -312,64 +288,56 @@
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state x="163" y="17" key="CommitChangelistDialog2/0.0.1707.912/2560.-161.1280.752@0.0.1707.912" timestamp="1737370255771" />
-    <state x="634" y="198" key="FileChooserDialogImpl" timestamp="1737507258618">
+    <state x="634" y="198" key="FileChooserDialogImpl" timestamp="1742516822508">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
-    <state x="634" y="198" key="FileChooserDialogImpl/0.0.1707.912@0.0.1707.912" timestamp="1737507258618" />
+    <state x="634" y="198" key="FileChooserDialogImpl/0.0.1707.912@0.0.1707.912" timestamp="1742516822508" />
     <state width="1663" height="242" key="GridCell.Tab.0.bottom" timestamp="1737873457020">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state width="1663" height="242" key="GridCell.Tab.0.bottom/0.0.1707.912/-2560.-97.1280.752@0.0.1707.912" timestamp="1737873457020" />
-    <state width="1663" height="296" key="GridCell.Tab.0.bottom/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732457486856" />
     <state width="1663" height="242" key="GridCell.Tab.0.bottom/0.0.1707.912/2560.-161.1280.752@0.0.1707.912" timestamp="1737370255803" />
     <state width="1663" height="242" key="GridCell.Tab.0.bottom/0.0.1707.912@0.0.1707.912" timestamp="1737510745835" />
     <state width="1663" height="242" key="GridCell.Tab.0.center" timestamp="1737873457020">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state width="1663" height="242" key="GridCell.Tab.0.center/0.0.1707.912/-2560.-97.1280.752@0.0.1707.912" timestamp="1737873457020" />
-    <state width="1663" height="296" key="GridCell.Tab.0.center/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732457486856" />
     <state width="1663" height="242" key="GridCell.Tab.0.center/0.0.1707.912/2560.-161.1280.752@0.0.1707.912" timestamp="1737370255803" />
     <state width="1663" height="242" key="GridCell.Tab.0.center/0.0.1707.912@0.0.1707.912" timestamp="1737510745835" />
     <state width="1663" height="242" key="GridCell.Tab.0.left" timestamp="1737873457020">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state width="1663" height="242" key="GridCell.Tab.0.left/0.0.1707.912/-2560.-97.1280.752@0.0.1707.912" timestamp="1737873457020" />
-    <state width="1663" height="296" key="GridCell.Tab.0.left/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732457486856" />
     <state width="1663" height="242" key="GridCell.Tab.0.left/0.0.1707.912/2560.-161.1280.752@0.0.1707.912" timestamp="1737370255803" />
     <state width="1663" height="242" key="GridCell.Tab.0.left/0.0.1707.912@0.0.1707.912" timestamp="1737510745834" />
     <state width="1663" height="242" key="GridCell.Tab.0.right" timestamp="1737873457020">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state width="1663" height="242" key="GridCell.Tab.0.right/0.0.1707.912/-2560.-97.1280.752@0.0.1707.912" timestamp="1737873457020" />
-    <state width="1663" height="296" key="GridCell.Tab.0.right/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732457486856" />
     <state width="1663" height="242" key="GridCell.Tab.0.right/0.0.1707.912/2560.-161.1280.752@0.0.1707.912" timestamp="1737370255803" />
     <state width="1663" height="242" key="GridCell.Tab.0.right/0.0.1707.912@0.0.1707.912" timestamp="1737510745835" />
     <state width="1663" height="296" key="GridCell.Tab.1.bottom" timestamp="1737596807087">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state width="1663" height="296" key="GridCell.Tab.1.bottom/0.0.1707.912/-2560.-97.1280.752@0.0.1707.912" timestamp="1737596807087" />
-    <state width="1663" height="296" key="GridCell.Tab.1.bottom/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732457486856" />
     <state width="1663" height="296" key="GridCell.Tab.1.bottom/0.0.1707.912/2560.-161.1280.752@0.0.1707.912" timestamp="1737368412995" />
     <state width="1663" height="296" key="GridCell.Tab.1.bottom/0.0.1707.912@0.0.1707.912" timestamp="1737382745302" />
     <state width="1663" height="296" key="GridCell.Tab.1.center" timestamp="1737596807087">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state width="1663" height="296" key="GridCell.Tab.1.center/0.0.1707.912/-2560.-97.1280.752@0.0.1707.912" timestamp="1737596807087" />
-    <state width="1663" height="296" key="GridCell.Tab.1.center/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732457486856" />
     <state width="1663" height="296" key="GridCell.Tab.1.center/0.0.1707.912/2560.-161.1280.752@0.0.1707.912" timestamp="1737368412994" />
     <state width="1663" height="296" key="GridCell.Tab.1.center/0.0.1707.912@0.0.1707.912" timestamp="1737382745302" />
     <state width="1663" height="296" key="GridCell.Tab.1.left" timestamp="1737596807087">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state width="1663" height="296" key="GridCell.Tab.1.left/0.0.1707.912/-2560.-97.1280.752@0.0.1707.912" timestamp="1737596807087" />
-    <state width="1663" height="296" key="GridCell.Tab.1.left/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732457486856" />
     <state width="1663" height="296" key="GridCell.Tab.1.left/0.0.1707.912/2560.-161.1280.752@0.0.1707.912" timestamp="1737368412994" />
     <state width="1663" height="296" key="GridCell.Tab.1.left/0.0.1707.912@0.0.1707.912" timestamp="1737382745302" />
     <state width="1663" height="296" key="GridCell.Tab.1.right" timestamp="1737596807087">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state width="1663" height="296" key="GridCell.Tab.1.right/0.0.1707.912/-2560.-97.1280.752@0.0.1707.912" timestamp="1737596807087" />
-    <state width="1663" height="296" key="GridCell.Tab.1.right/0.0.1707.912/-2560.0.1280.752@0.0.1707.912" timestamp="1732457486856" />
     <state width="1663" height="296" key="GridCell.Tab.1.right/0.0.1707.912/2560.-161.1280.752@0.0.1707.912" timestamp="1737368412994" />
     <state width="1663" height="296" key="GridCell.Tab.1.right/0.0.1707.912@0.0.1707.912" timestamp="1737382745302" />
     <state x="-2560" y="-97" width="1292" height="813" key="dock-window-1" timestamp="1737767570154">
@@ -384,6 +352,10 @@
       <screen x="0" y="0" width="1707" height="912" />
     </state>
     <state x="0" y="0" width="1294" height="814" key="dock-window-3/0.0.1707.912/-2560.-97.1280.752@0.0.1707.912" timestamp="1737767598830" />
+    <state x="241" y="67" key="new project wizard" timestamp="1742516823935">
+      <screen x="0" y="0" width="1707" height="912" />
+    </state>
+    <state x="241" y="67" key="new project wizard/0.0.1707.912@0.0.1707.912" timestamp="1742516823935" />
     <state x="510" y="209" key="run.anything.popup" timestamp="1737619059376">
       <screen x="0" y="0" width="1707" height="912" />
     </state>
